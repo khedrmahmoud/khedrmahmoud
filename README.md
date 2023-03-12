@@ -1,9 +1,11 @@
 
 <h1 align="center"> Hi there 👋,I'm Khedr Mahmoud<h1>
-<div id="header" align="center">
-  <h3 align="center" dir="auto">I am Flutter,Web and Unity Games Developer</h3>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<p id="header" align="center">
+<div >
+  <h4 align="center" dir="auto">I am Flutter,Web and Unity Games Developer</h4>
+  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="100"/>
 </div>
+</p>
   <img  align="center" src="https://camo.githubusercontent.com/f0a9727d90e78af930bf98dad44808e0b9db90bc1a478298293fcaa573df5835/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4f73616d612d47616d616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" style="max-width: 100%;">
  <h3 align="center" dir="auto">Languages and Tools:</h3>
  <p align="center" dir="auto">
