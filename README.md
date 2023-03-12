@@ -3,7 +3,7 @@
 
 <div   id="header" align="center">
   <h4 >I am Flutter,Web and Unity Games Developer</h4>
-  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200"/>
+  <img align="center" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200"/>
 </div>
 
   <img  align="center" src="https://camo.githubusercontent.com/f0a9727d90e78af930bf98dad44808e0b9db90bc1a478298293fcaa573df5835/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4f73616d612d47616d616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" style="max-width: 100%;">
@@ -54,6 +54,41 @@
     <img     src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667"
       alt="flutter"
       width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+     width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+      alt="css"
+     width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      alt="javascript"
+     width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+     <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+      alt="php"
+     width="40"
+      height="40"
+      style="max-width: 100%"
+    />
+     <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
+      alt="laravel"
+     width="40"
       height="40"
       style="max-width: 100%"
     />
