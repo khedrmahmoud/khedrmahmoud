@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋,I'm Khedr Mahmoud<h1>
 
 <div   id="header" align="center">
-  <h4 style="font-size:16px" >I am Flutter,Web and Unity Games Developer</h4>
+  <h4 style="font-size: 12px" >I am Flutter,Web and Unity Games Developer</h4>
   <img align="center" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200"/>
 </div>
 
