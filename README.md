@@ -145,13 +145,13 @@
 
 ### Front-End Development
 - HTML, CSS, JavaScript
-- React.js, Vue.js
+- React.js
 - Responsive Design
 
 ### Mobile App Development
 - Flutter
 - Dart
-- Native iOS and Android
+- Native Android
 
 ### Back-End Development
 - Laravel
@@ -163,40 +163,55 @@
 - C#
 - 2D and 3D Game Development
 
+### Machine Learning and AI
+- Python
+- TensorFlow
+- Deep Learning
+  
+## 🏛️ Software Architectures
+
+- **MVVM (Model-View-ViewModel):** I've delved into MVVM, a design pattern that promotes separation of concerns in UI development. It helps in creating clean, maintainable, and testable code for modern app development.
+
+- **Clean Architecture:** I'm a proponent of Clean Architecture, which encourages a clear separation of concerns and a structured codebase. It promotes maintainability and scalability in software projects.
+
+- **MVC (Model-View-Controller):** MVC is one of the classic architectural patterns I've worked with, providing a structured approach to organizing code and user interfaces in web and desktop applications.
+
+These architectural patterns have enhanced my understanding of software design and development, enabling me to build robust and scalable applications.
+
 ### Other Skills
 - Git & GitHub
 - Database Management
-- DevOps and CI/CD
+- CI/CD
 
 ## 🌱 What I'm Learning
-- [A new technology or skill you're currently exploring]
+- Exploring the fascinating world of Machine Learning, Deep Learning and Computer Vision in AI.
 
 ## 📫 Contact Me
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+<!--- [Email](mailto:youremail@example.com)-->
+- [LinkedIn](https://linkedin.com/in/khedr-mahmoud-7a0015221)
+<!--- [Twitter](https://twitter.com/yourusername)-->
 
 ---
 
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khedrmahmoud&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
-
-## 📝 Latest Blog Posts
+<!--
+## 📝 Latest Blog Posts-->
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Blog Post 1](https://yourblog.com/post1)
 - [Blog Post 2](https://yourblog.com/post2)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎮 Fun Fact
-- I'm also a [mention a unique hobby or interest] enthusiast.
-
+## 🎨 Fun Fact
+- I'm also a design enthusiast, and in my free time, you'll often find me immersed in the world of creativity. I have a passion for graphic design and enjoy learning tools like Adobe Illustrator and various editing software. Whether it's crafting eye-catching visuals or exploring new design techniques, I find immense joy in the art of creating and enhancing visual content. 🎨✨
 ---
 
-Thanks for visiting my profile! Let's connect and build something amazing together. 😄
+<!--Thanks for visiting my profile! Let's connect and build something amazing together. 😄-->
 
 
   
