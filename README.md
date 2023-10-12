@@ -2,7 +2,13 @@
 <h1 align="center"> Hi there 👋,I'm Khedr Mahmoud</h1>
 
 <div   id="header" align="center">
-  <h3 style="font-size: 12px" >I am Flutter,Web and Unity Games Developer</h3>
+  <p align="center">
+  <a href="https://yourwebsite.com">Website</a> •
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
+  <a href="https://twitter.com/yourusername">Twitter</a>
+</p>
+
+<p align="center">Passionate about Flutter, Laravel, Front-End Dev, and Unity Games</p>
   <img align="center" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200"/>
 </div>
  <h3 align="center" dir="auto">
@@ -129,15 +135,9 @@
    
   </p>
 
-<h1 align="center">👋 Hello, I'm [Your Name]</h1>
 
-<p align="center">
-  <a href="https://yourwebsite.com">Website</a> •
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
-  <a href="https://twitter.com/yourusername">Twitter</a>
-</p>
 
-<p align="center">Passionate about Flutter, Laravel, Front-End Dev, and Unity Games</p>
+
 
 ---
 
