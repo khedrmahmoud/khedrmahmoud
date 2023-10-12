@@ -183,7 +183,7 @@ These architectural patterns have enhanced my understanding of software design a
 - Database Management
 - CI/CD
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Learning 
 - Exploring the fascinating world of Machine Learning, Deep Learning and Computer Vision in AI.
 
 ## 📫 Contact Me
