@@ -128,6 +128,77 @@
     />
    
   </p>
+
+<h1 align="center">👋 Hello, I'm [Your Name]</h1>
+
+<p align="center">
+  <a href="https://yourwebsite.com">Website</a> •
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> •
+  <a href="https://twitter.com/yourusername">Twitter</a>
+</p>
+
+<p align="center">Passionate about Flutter, Laravel, Front-End Dev, and Unity Games</p>
+
+---
+
+## 🚀 Technologies and Tools
+
+### Front-End Development
+- HTML, CSS, JavaScript
+- React.js, Vue.js
+- Responsive Design
+
+### Mobile App Development
+- Flutter
+- Dart
+- Native iOS and Android
+
+### Back-End Development
+- Laravel
+- PHP
+- RESTful APIs
+
+### Game Development
+- Unity
+- C#
+- 2D and 3D Game Development
+
+### Other Skills
+- Git & GitHub
+- Database Management
+- DevOps and CI/CD
+
+## 🌱 What I'm Learning
+- [A new technology or skill you're currently exploring]
+
+## 📫 Contact Me
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post 1](https://yourblog.com/post1)
+- [Blog Post 2](https://yourblog.com/post2)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎮 Fun Fact
+- I'm also a [mention a unique hobby or interest] enthusiast.
+
+---
+
+Thanks for visiting my profile! Let's connect and build something amazing together. 😄
+
+
   
 <!--
 **khedrmahmoud/khedrmahmoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
