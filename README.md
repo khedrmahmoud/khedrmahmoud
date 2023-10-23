@@ -143,15 +143,15 @@
 
 ## 🚀 Technologies and Tools
 
-### Front-End Development
-- HTML, CSS, JavaScript
-- React.js
-- Responsive Design
-
 ### Mobile App Development
 - Flutter
 - Dart
 - Native Android
+  
+### Front-End Development
+- HTML, CSS, JavaScript
+- React.js
+- Responsive Design
 
 ### Back-End Development
 - Laravel
