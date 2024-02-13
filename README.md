@@ -4,8 +4,8 @@
 <div   id="header" align="center">
   <p align="center">
 <!--   <a href="">Website</a> • -->
-  <a href="https://linkedin.com/in/khedr-mahmoud-7a0015221">LinkedIn</a> •
-   <a href="https://khedr-abdel-aziz.rf.gd/#/">Twitter</a>
+  • <a href="https://linkedin.com/in/khedr-mahmoud-7a0015221">LinkedIn</a>
+  • <a href="https://khedr-abdel-aziz.rf.gd/#/">Portfolio</a>
 </p>
 
 <p align="center">Passionate about Flutter, Laravel, Front-End Dev, and Unity Games</p>
