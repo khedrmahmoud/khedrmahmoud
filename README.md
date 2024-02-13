@@ -182,7 +182,7 @@ These architectural patterns have enhanced my understanding of software design a
 ## 📫 Contact Me
 <!--- [Email](mailto:youremail@example.com)-->
 - [LinkedIn](https://linkedin.com/in/khedr-mahmoud-7a0015221)
-- [Portfolio]([https://twitter.com/yourusername](https://khedr-abdel-aziz.rf.gd/#/))
+- [Portfolio](https://khedr-abdel-aziz.rf.gd/#/)
 
 ---
 
