@@ -5,7 +5,7 @@
   <p align="center">
 <!--   <a href="">Website</a> • -->
   <a href="https://linkedin.com/in/khedr-mahmoud-7a0015221">LinkedIn</a> •
-<!--   <a href="https://twitter.com/yourusername">Twitter</a> -->
+   <a href="https://khedr-abdel-aziz.rf.gd/#/">Twitter</a>
 </p>
 
 <p align="center">Passionate about Flutter, Laravel, Front-End Dev, and Unity Games</p>
@@ -182,7 +182,7 @@ These architectural patterns have enhanced my understanding of software design a
 ## 📫 Contact Me
 <!--- [Email](mailto:youremail@example.com)-->
 - [LinkedIn](https://linkedin.com/in/khedr-mahmoud-7a0015221)
-<!--- [Twitter](https://twitter.com/yourusername)-->
+- [Portfolio]([https://twitter.com/yourusername](https://khedr-abdel-aziz.rf.gd/#/))
 
 ---
 
