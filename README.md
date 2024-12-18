@@ -8,7 +8,6 @@
   • <a href="https://khedr-abdel-aziz.rf.gd/#/">Portfolio</a>
 </p>
 
-<p align="center">Passionate about Flutter, Laravel, Front-End Dev</p>
   <img align="center" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200"/>
 </div>
  # 💻 Welcome to My GitHub Profile!  
@@ -27,7 +26,8 @@ I'm a passionate **Flutter** and **Laravel** developer dedicated to crafting sca
 - **Laravel**: Building dynamic, secure, and scalable web applications.  
 - **PHP**: Backend development with a focus on performance and reliability.  
 - **RESTful APIs**: Creating seamless integrations for web and mobile.
-
+- **Database Management**:  
+  - MySQL and Firebase.  
 ---
 
 ## 🔧 Additional Knowledge Areas  
@@ -45,8 +45,7 @@ While Flutter and Laravel are my core tracks, I have hands-on experience in:
 - **AI & Machine Learning**:  
   - Python, TensorFlow, and introductory deep learning projects.  
 
-- **Database Management**:  
-  - MySQL and Firebase.  
+
 
 ---
 
