@@ -72,12 +72,6 @@ While Flutter and Laravel are my core tracks, I have hands-on experience in:
 
 ---
 
-## 🌱 Current Focus  
-
-I'm diving deeper into **state management**, **advanced Flutter animations**, and exploring Laravel's **microservices architecture** for large-scale applications.  
-
----
-
 ## 🎨 Fun Fact  
 
 When I’m not coding, I enjoy exploring graphic design with tools like Adobe Illustrator. I love blending creativity with technology to craft visually appealing content.  
