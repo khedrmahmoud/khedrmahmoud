@@ -20,7 +20,7 @@ I'm a passionate **Flutter** and **Laravel** developer dedicated to crafting sca
 ### 📱 Mobile App Development  
 - **Flutter**: Building beautiful, natively compiled mobile apps.  
 - **Dart**: Leveraging Dart's capabilities for robust app logic.  
-- **Native Android**: Solid understanding of native development.  
+
 
 ### 🌐 Web Development  
 - **Laravel**: Building dynamic, secure, and scalable web applications.  
