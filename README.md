@@ -5,7 +5,7 @@
   <p align="center">
 <!--   <a href="">Website</a> • -->
   • <a href="https://linkedin.com/in/khedr-mahmoud-7a0015221">LinkedIn</a>
-  • <a href="https://khedr-abdel-aziz.rf.gd/#/">Portfolio</a>
+  • <a href="https://khedr-portfolio.vercel.app/">Portfolio</a>
 </p>
 
   <img align="center" src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="200"/>
@@ -80,7 +80,7 @@ When I’m not coding, I enjoy exploring graphic design with tools like Adobe Il
 ## 📫 Contact Me
 <!--- [Email](mailto:youremail@example.com)-->
 - [LinkedIn](https://linkedin.com/in/khedr-mahmoud-7a0015221)
-- [Portfolio](https://khedr-abdel-aziz.rf.gd/#/)
+- [Portfolio](https://khedr-portfolio.vercel.app/)
 
 ---
 
